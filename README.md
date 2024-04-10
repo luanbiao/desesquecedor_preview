@@ -42,3 +42,14 @@ As ações no módulo ocorrem como em uma Single Page Application
 :tv: Melhoria no sistema de Animes - Quais estou assistindo e quais estou aguardando a nova temporada?
 
 :droplet: DRY :droplet: DRY :droplet: DRY :droplet: DRY :droplet: DRY
+
+## Telas
+
+### Dashboards - Login - Home
+<img src="https://github.com/luanbiao/desesquecedor_preview/blob/main/telas/desesquecedor-dashboards-login-home.png" width="350">
+
+### Notas - Lembretes - Tarefas
+<img src="https://github.com/luanbiao/desesquecedor_preview/blob/main/telas/desesquecedor-notas-lembretes-tarefas.png" width="350">
+
+### Anexos - Animes - Grupos
+<img src="https://github.com/luanbiao/desesquecedor_preview/blob/main/telas/desesquecedor-anexos-animes-grupos.png" width="350">
