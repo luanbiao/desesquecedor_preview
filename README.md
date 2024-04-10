@@ -46,10 +46,10 @@ As ações no módulo ocorrem como em uma Single Page Application
 ## Telas
 
 ### Dashboards - Login - Home
-<img src="https://github.com/luanbiao/desesquecedor_preview/blob/main/telas/desesquecedor-dashboards-login-home.png" width="350">
+<img src="https://github.com/luanbiao/desesquecedor_preview/blob/main/telas/desesquecedor-dashboards-login-home.png" width="700">
 
 ### Notas - Lembretes - Tarefas
-<img src="https://github.com/luanbiao/desesquecedor_preview/blob/main/telas/desesquecedor-notas-lembretes-tarefas.png" width="350">
+<img src="https://github.com/luanbiao/desesquecedor_preview/blob/main/telas/desesquecedor-notas-lembretes-tarefas.png" width="700">
 
 ### Anexos - Animes - Grupos
-<img src="https://github.com/luanbiao/desesquecedor_preview/blob/main/telas/desesquecedor-anexos-animes-grupos.png" width="350">
+<img src="https://github.com/luanbiao/desesquecedor_preview/blob/main/telas/desesquecedor-anexos-animes-grupos.png" width="700">
